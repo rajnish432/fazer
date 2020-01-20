@@ -11,7 +11,7 @@ public class power
 			while(j<=N)
 			{
 				System.out.println("2^"+j+" ="+power);
-			    power=power*2;
+			    	power=power*2;
 				j++;			
 			}
 			}
